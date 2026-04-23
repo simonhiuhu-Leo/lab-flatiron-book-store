@@ -1,0 +1,23 @@
+Body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+input {
+    padding: 10px;
+    width: 100px;
+    border: 1px lightblue;
+    border-radius: 16px;
+    font-size: 16px;
+}
+button {
+    padding: 10px 20px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+    
+
+   
